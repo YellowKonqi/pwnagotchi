@@ -27,13 +27,13 @@ Multiple units within close physical proximity can "talk" to each other, adverti
 ## Documentation
 
 https://github.com/jayofelony/pwnagotchi/wiki 
-https://pwnagotchi.org
+https://pwnagotchi.ai
 
 ## Links
 
 | &nbsp;    | Official Links                                           |
 |-----------|----------------------------------------------------------|
-| Website   | [pwnagotchi.org](https://pwnagotchi.org/)                  |
+| Website   | [pwnagotchi.org](https://pwnagotchi.ai/)                 |
 | Chat      | [discord](https://discord.gg/PGgnzFbz4M) |
 | Subreddit | [r/pwnagotchi](https://www.reddit.com/r/pwnagotchi/)     |
 
